@@ -1,2 +1,0 @@
-# schoolwebsite
-school website
